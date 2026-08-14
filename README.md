@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0c757b62-1d1d-45d8-977f-7e84045d7c00
+
 # Dev_Model_ObjectDetection
 🚀 Develop by self a Model Object Detection From Scratch
 But Now, I'm not show all code
