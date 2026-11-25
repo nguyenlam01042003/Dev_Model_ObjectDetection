@@ -1,5 +1,7 @@
 
 # Custom Object Detection Model (From Scratch)
+## Download Standalone Demo (Windows — Pure CPU)
+👉 **[Download Pre-built Demo (.zip) from Releases](https://github.com/nguyenlam01042003/Dev_Model_ObjectDetection/releases/latest)**
 
 A custom object detection model inspired by YOLOv8, implemented from scratch in Python (without PyTorch/TensorFlow) and accelerated on CPU using Numba Parallel.
 
